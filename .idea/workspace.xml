@@ -315,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.django_fit">
+  <component name="RunManager" selected="Unknown.django_fit1274364177">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="django_fit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -363,7 +363,6 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.django_fit" />
       <item itemvalue="Python.manage" />
     </list>
     <recent_temporary>
