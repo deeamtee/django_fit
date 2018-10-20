@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Authentication Tutorial</title>
+</head>
+<body>
+
+<h1> Authentication Tutorial </h1>
+
+    {% if user.is_authenticated %}
+         <h1>Hi, {{ user.username }}!</h1>
+    {% else %}
+       <a href="/accounts/login/"><h2>Login</h2> </a>
+    {% endif %}
+</body>
+</html>
