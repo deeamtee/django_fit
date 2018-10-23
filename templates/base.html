@@ -5,6 +5,8 @@
     <title>{% block title %}
         {% endblock %}
     </title>
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/404.css' %}">
 </head>
 <body>
 {% block content %}
