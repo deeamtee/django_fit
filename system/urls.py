@@ -1,10 +1,9 @@
 from django.urls import path, include
-from .views import index, register, logout
+from system.views import index, register, logout, login
 
 urlpatterns = [
-    path('', include('django.contrib.auth.urls')),
+    path('', include('allauth.urls')),
+    # path('', include('django.contrib.auth.urls')),
     path('index/', index),
-    path('register/', register),
-    path('logout/', logout),
 
 ]
