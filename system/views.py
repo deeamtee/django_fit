@@ -20,7 +20,7 @@ def index(request):
 #             login(request, user)
 #             return redirect('index')
 #
-#     template = 'registration/register.html'
+#     template = 'account/register.html'
 #     context = {'form': form}
 #     return render(request, template, context)
 

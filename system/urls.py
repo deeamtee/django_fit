@@ -1,5 +1,5 @@
 from django.urls import path, include
-from system.views import index, register, logout, login
+from system.views import index, logout, login
 
 urlpatterns = [
     path('', include('allauth.urls')),
