@@ -55,6 +55,8 @@ fieldset {
   border-radius: 5px;
   padding-top: 5px;
 }
+
+
 .formholder input[type="text"], .formholder input[type="password"] {
   padding: 7px 5px;
   margin: 10px 0;

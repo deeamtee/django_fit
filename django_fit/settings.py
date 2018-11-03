@@ -131,7 +131,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
     '/var/www/static/',
 ]
-
+ACCOUNT_FORMS = {'login': 'system.forms.YourLoginForm'}
 # Redirect to home URL after login (Default redirects to /accounts/profile/)
 LOGIN_REDIRECT_URL = '/accounts/index/'
 
