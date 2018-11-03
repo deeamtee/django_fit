@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="738491ed-60ec-448a-94ad-572979096630" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_fit/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_fit/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/system/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/user/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="738491ed-60ec-448a-94ad-572979096630" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +150,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -165,11 +159,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/system/forms.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -487,12 +481,12 @@
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1581121" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1581121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49852508" weight="0.32846716" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6141593" visible="true" weight="0.3734793" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6141593" weight="0.3734793" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49852508" weight="0.39902675" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -500,8 +494,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49911505" weight="0.32846716" />
       <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49734512" weight="0.3296837" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3858407" side_tool="true" visible="true" weight="0.3734793" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.77640116" weight="0.46836984" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22418879" side_tool="true" visible="true" weight="0.46836984" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.7758112" visible="true" weight="0.46836984" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49852508" weight="0.32846716" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.3296837" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -743,13 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/forms.py">
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="86" selection-start-line="8" selection-start-column="86" selection-end-line="8" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="132">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
@@ -760,10 +751,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/system/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="128">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
